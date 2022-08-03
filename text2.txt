@@ -1,2 +1,3 @@
 Hello everyone!
 Hi, This is a new file created in the alpha branch
+Hi from beta
