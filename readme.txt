@@ -1,1 +1,1 @@
-Hello, this is a readme for the basic-git repository
+Hello, this is a readme for the basic-git repository in the alpha branch
